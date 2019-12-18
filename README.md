@@ -1,2 +1,0 @@
-# StickyPositionEvent
-Created with CodeSandbox
